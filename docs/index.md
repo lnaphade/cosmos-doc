@@ -104,7 +104,7 @@ Cosmos is not an ordinary reconnaissance suite; it's a game-changer! With the 1.
 * Find actionable insights such as Most Common Vulnerability, Most Common CVE ID, Most Vulnerable Target/Subdomain, etc.
 
 !!! tip
-    Follow [me on Twitter](//twitter.com/ojhayogesh11) to keep yourself updated about new features.
+    Follow [me on Twitter](//twitter.com/lalit_1985) to keep yourself updated about new features.
 
 ## 🚀 Getting Started
 
@@ -142,17 +142,10 @@ Guide on [How to report security issues](security/index.md) is available.
 If you want to know the latest changes in Cosmos, head to [🤖 Changelog](changelog.md).
 
 ## Support
-
-Over the last few years I have been working insane on Cosmos to bring new features with the only goal to make this as De-facto standard for reconnaissance. Most of my out of office hours and weeknds are spent on working on Cosmos. I do this with addition to my primary job. I am happy to have received such an overwhelming support from community. But to keep this project alive, I am seeking financial support.
-
-|                                                                       Paypal                                                                       |                                                            Bitcoin                                                             |                                                            Ethereum                                                            |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-|[https://www.paypal.com/paypalme/yogeshojha11](https://www.paypal.com/paypalme/yogeshojha11)                                 |                                              `35AiKyNswNZ4TZUSdriHopSCjNMPi63BCX`                                              |                                          `0xe7A337Da6ff98A28513C26A7Fec8C9b42A63d346`                                          |
-
+                              |
 It takes a considerable amount of time to add new features and make sure everything is working. A donation is your way saying: **Cosmos is awesome**
 
 Any support is greatly appreciated! _Thank you!_
 
 ## License
 
-Cosmos is licensed under the GNU General Public License v3.0
