@@ -1,12 +1,12 @@
-site_name: reNgine
-site_author: Yogesh Ojha
-site_url: https://rengine.wiki
-site_description: reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+site_name: Cosmos
+site_author: Lalit Naphade
+site_url: https://www.linkedin.com/in/lalitnaphade/
+site_description: Cosmos is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. Cosmos has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
 
-copyright: "Copyright &copy; 2023 Yogesh Ojha"
+copyright: "Copyright &copy; 2024 Lalit Naphade"
 
-repo_url: https://github.com/yogeshojha/rengine
-repo_name: reNgine
+repo_url: https://github.com/lnaphade/cosmos
+repo_name: Cosmos
 
 theme:
   name: material
@@ -44,11 +44,9 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yogeshojha/rengine
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/H6WzebwX3H
+      link: https://github.com/lnaphade/cosmos
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/ojhayogesh11
+      link: https://twitter.com/lalit_1985
 
 extra_css:
   - assets/style.css
